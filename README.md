@@ -1,2 +1,2 @@
 # ETAX-Consultancy_A-Landing-Page
-A simple landing page for a tax consultancy corporation.
+A simple responsive landing page for a tax consulting corporation.
